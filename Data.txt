@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnnNn.webp",
+            "title": "Jogo do Tigre 1",
+            "text_Content_": "In the vibrant and diverse tapestry of Brazilian culture, one can find a rich array of traditions, music, dance, and sports. Among the lesser-known gems is Jogo do Tigre, a fascinating and strategic game that has been captivating Brazilians for generations. This unique game combines elements of strategy, psychology, and physical prowess, making it a favorite pastime in Brazil and beyond"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnCAX.webp",
+            "title": "Jogo do Tigre 2",
+            "text_Content_": "Jogo do Tigre, which translates to Game of the Tiger in English, is believed to have originated in the northeastern region of Brazil, where it has been played for centuries. Its exact historical origins are somewhat elusive, but its roots can be traced to a combination of indigenous influences and the Portuguese colonial era"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnB9t.webp",
+            "title": "Jogo do Tigre 3",
+            "text_Content_": "At its core, Jogo do Tigre is a game of strategy and cunning. It is typically played in an outdoor setting, often on a sandy or dirt surface. The game involves two teams, each consisting of several players. The primary objective of the game is for one team to capture the other team's tiger."
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnFFp.webp",
+            "title": "Jogo do Tigre 4",
+            "text_Content_": "To achieve this, hunters must employ a combination of tactics. They can use soft balls, such as rubber balls or foam balls, to throw at the tiger in an attempt to tag them. If a hunter successfully tags the tiger with a ball, that player becomes the new tiger"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJln2PR.webp",
+            "title": "Jogo do Tigre 5",
+            "text_Content_": "The game continues until the hunters successfully capture the tiger or until a predetermined time limit is reached"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnKcN.webp",
+            "title": "Jogo do Tigre 6",
+            "text_Content_": "Jogo do Tigre is not just about physical agility; it also requires a high level of strategy and psychology. The hunters must work together to create a plan to capture the elusive tiger. Communication, teamwork, and timing are crucial to their success"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnfSI.webp",
+            "title": "Jogo do Tigre 7",
+            "text_Content_": "The tiger, on the other hand, must rely on stealth and evasion tactics to avoid being tagged. They can hide in the lair, move stealthily around their half of the field, or use decoys to confuse the hunters"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJlnots.webp",
+            "title": "Jogo do Tigre 8",
+            "text_Content_": "Jogo do Tigre may not be as well-known internationally as soccer or samba, but it holds a special place in Brazilian culture. It is often played at family gatherings, festivals, and community events, bringing people of all ages together. The game fosters a sense of camaraderie and competition while promoting physical activity and strategic thinking"
         }
     ]
 }
